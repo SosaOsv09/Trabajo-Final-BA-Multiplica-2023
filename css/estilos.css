@@ -124,6 +124,46 @@ main {
         text-align: center;
     }
 
+    .botonps2 {
+        text-align: center;
+        background-color: rgb(6, 140, 202);
+        color: white;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        border: none;
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+    
+    .botonps2:hover {
+        text-align: center;
+        background-color: rgb(11, 164, 235);
+        color: white;
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+
+    .botonps3 {
+        text-align: center;
+        background-color: rgb(243, 179, 5);
+        color: white;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+        border: none;
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+    
+    .botonps3:hover {
+        text-align: center;
+        background-color: rgb(255, 187, 0);
+        color: white;
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+
     .botonps5 {
         text-align: center;
         background-color: black;
