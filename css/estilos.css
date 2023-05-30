@@ -52,6 +52,12 @@ ul, li {
     border: 1px solid black;
 }
 
+
+#activo {
+    background-color: rgb(2, 6, 24);
+    color: white;
+}
+
 main {
     background-color: white;
     font-size: 20px;
@@ -381,6 +387,7 @@ footer {
     padding-bottom: 25px;
 
 }
+
 
 @media screen and (max-width:800px) {
 
