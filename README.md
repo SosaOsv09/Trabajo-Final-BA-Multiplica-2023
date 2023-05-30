@@ -1,4 +1,6 @@
-# Título del Proyecto: PS - 2023
+<h1 align="center"> Título del Proyecto: PS - 2023 </h1>
+
+![banner de PS](https://lojasdream.vteximg.com.br/arquivos/ids/218839/PlaystationDesktop.png?v=637546936427000000)
 
 Está página está dedicada a PlayStation. En la misma encontrarán las últimas noticias más importantes, además de los próximos lanzamientos. Por otra parte, tendrás una sección "Historia", dónde resumidamente, se contará el trayecto de la consola de Sony a lo largo de los años. También se hará un recuento de los últimos videojuegos que vieron la luz y todas las consolas de esta compañia. Por último, un formulario de contacto en dónde podrán estar al tanto de las novedades más recientes de PS.
 
