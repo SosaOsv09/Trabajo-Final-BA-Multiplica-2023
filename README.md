@@ -31,10 +31,10 @@ Para acceder al proyecto, dar click en el siguiente enlace: [GitHub](https://sos
 
 Toda la información utilizada puedes encontrarla en [Wikipedia Playstation](https://es.wikipedia.org/wiki/PlayStation) y en la [Web Oficial de PlayStation](https://www.playstation.com/es-ar/)
 
-## Autores ✒️
+## Autor ✒️
 
-* **Osvaldo Guillermo Sosa** - *Trabajo Inicial y Final* - [SosaOsv09](https://github.com/SosaOsv09)
+[<img src="https://avatars.githubusercontent.com/u/129412315?v=4" width=115><br><sub>Osvaldo Guillermo Sosa</sub>](https://github.com/SosaOsv09)
 
 ## Licencia 📄
 
-Todos los contenidos, títulos de juegos, nombres y/o imágenes comerciales, marcas comerciales, arte e imágenes asociadas son marcas comerciales y/o material con derechos de autor de sus propietarios respectivos.Todos los derechos reservados. [Más información aquí](https://www.playstation.com/legal/copyright-and-trademark-notice/)
+Todos los contenidos, títulos de juegos, nombres y/o imágenes comerciales, marcas comerciales, arte e imágenes asociadas son marcas comerciales y/o material con derechos de autor de sus propietarios respectivos. Todos los derechos reservados, para [Más información aquí](https://www.playstation.com/legal/copyright-and-trademark-notice/)
