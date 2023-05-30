@@ -27,6 +27,14 @@ Para acceder al proyecto, dar click en el siguiente enlace: [GitHub](https://sos
 - [Canva](https://www.canva.com) - Editor de imágenes
 - [RunJS](https://runjs.app) - Usado para generar y/o verificar funcionamiento JavaScript
 
+## Wiki 📖
+
+Toda la información utilizada puedes encontrarla en [Wikipedia Playstation](https://es.wikipedia.org/wiki/PlayStation) y en la [Web Oficial de PlayStation](https://www.playstation.com/es-ar/)
+
 ## Autores ✒️
 
 * **Osvaldo Guillermo Sosa** - *Trabajo Inicial y Final* - [SosaOsv09](https://github.com/SosaOsv09)
+
+## Licencia 📄
+
+Todos los contenidos, títulos de juegos, nombres y/o imágenes comerciales, marcas comerciales, arte e imágenes asociadas son marcas comerciales y/o material con derechos de autor de sus propietarios respectivos.Todos los derechos reservados. [Más información aquí](https://www.playstation.com/legal/copyright-and-trademark-notice/)
