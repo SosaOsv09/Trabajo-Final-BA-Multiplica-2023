@@ -19,4 +19,14 @@ Está página está dedicada a PlayStation, en ella encontrarán las noticias m�
 
 ## 📁 Acceso al proyecto
 
-Para acceder al proyecto, dar click en el siguiente enlace: * [GitHub](https://sosaosv09.github.io/Trabajo-Final-BA-Multiplica-2023/)
+Para acceder al proyecto, dar click en el siguiente enlace: [GitHub](https://sosaosv09.github.io/Trabajo-Final-BA-Multiplica-2023/)
+
+## Construido con 🛠️
+
+- [Visual Studio Code](https://code.visualstudio.com) - Editor de código
+- [Canva](https://www.canva.com) - Editor de imágenes
+- [RunJS](https://runjs.app) - Usado para generar y/o verificar funcionamiento JavaScript
+
+## Autores ✒️
+
+* **Osvaldo Guillermo Sosa** - *Trabajo Inicial y Final* - [SosaOsv09](https://github.com/SosaOsv09)
