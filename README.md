@@ -10,7 +10,7 @@ Está página está dedicada a PlayStation, en ella encontrarán las noticias m�
    
    ## :hammer:Funcionalidades del proyecto
 
-- `Informacion importante`:  Este sitio web está diseñado y pensado para utilizarse únicamente en computadoras de escritorio
+- `Informacion importante`:  Este sitio web está diseñado y pensado para utilizarse únicamente en computadoras de escritorio.
 - `Sección Home`:  Estará las noticias más recientes y los próximos lanzamientos en PlayStation.
 - `Sección Historia`:  Allí se contará resumidamente lo más importante de la franquicia fundada por Sony.
 - `Sección Videojuegos`:  Se encontrarán con los videojuegos más recientes, tanto de PS4 y PS5 de los últimos años. Portadas, enlaces para comprarlos en la tienda digital, breve descripción, tráiler de lanzamiento, playlist de Spotify e imágenes del juego en cuestión.
