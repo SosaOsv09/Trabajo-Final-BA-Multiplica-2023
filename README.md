@@ -37,4 +37,4 @@ Toda la información utilizada puedes encontrarla en [Wikipedia Playstation](htt
 
 ## Licencia 📄
 
-Todos los contenidos, títulos de juegos, nombres y/o imágenes comerciales, marcas comerciales, arte e imágenes asociadas son marcas comerciales y/o material con derechos de autor de sus propietarios respectivos. Todos los derechos reservados, para [Más información aquí](https://www.playstation.com/legal/copyright-and-trademark-notice/)
+Todos los contenidos, títulos de juegos, nombres y/o imágenes comerciales, marcas comerciales, arte e imágenes asociadas son marcas comerciales y/o material con derechos de autor de sus propietarios respectivos. Todos los derechos reservados. [Más información aquí](https://www.playstation.com/legal/copyright-and-trademark-notice/)
