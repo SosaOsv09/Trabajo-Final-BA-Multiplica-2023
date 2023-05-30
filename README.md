@@ -1,4 +1,4 @@
-<h1 align="center"> Título del Proyecto: PS - 2023 </h1>
+<h1 align="center"> Título del Proyecto: PS Studio - 2023 </h1>
 
 ![banner de PS](https://lojasdream.vteximg.com.br/arquivos/ids/218839/PlaystationDesktop.png?v=637546936427000000)
 
