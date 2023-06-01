@@ -4,9 +4,13 @@
 
 Está página está dedicada a PlayStation, en ella encontrarán las noticias más importantes, además de los próximos lanzamientos. Por otra parte, tendrá una sección "Historia", dónde resumidamente, se contará el trayecto de la consola de Sony a lo largo de los años. También se hará un recuento de los últimos videojuegos que vieron la luz y todas las consolas de esta compañia. Por último, un formulario de contacto, en dónde los usuarios se podrán inscribir y recibir las novedades más recientes de PS.
 
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Estado-Completado-green">
+   
+   <img src="https://img.shields.io/badge/Última%20versión-Junio-yellow">
+   
+   <img src="https://img.shields.io/badge/Licencia-PlayStation%20--%20Sony-blue">
+</p>
    
    ## :hammer:Funcionalidades del proyecto
 
