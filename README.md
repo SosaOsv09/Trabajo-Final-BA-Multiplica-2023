@@ -18,9 +18,13 @@ Está página está dedicada a PlayStation, en ella encontrarán las noticias m�
 - `Sección Contacto`:  Tendrá un formulario, el cuál podrán rellenar para estar al tanto de las novedades más recientes del universo PlayStation. Acompañada de una imagen ilustrativa. 
 - `Otros detalles`:  Cada sección contará con sus respectivos hipervínculos para acceder tanto a las demás secciones de la página web, como tambien a los enlaces externos al mismo. Además de un botón para volver al inicio del sitio web. 
 
-## 📁 Acceso al proyecto
+## 📁 Acceso al repositorio
 
-Para acceder al proyecto, dar click en el siguiente enlace: [GitHub](https://sosaosv09.github.io/Trabajo-Final-BA-Multiplica-2023/)
+Para acceder al repositorio, dar click [aquí](https://github.com/SosaOsv09/Trabajo-Final-BA-Multiplica-2023)
+
+## ⚙️ Acceso al deploy
+
+Para acceder al deploy, dar click en el siguiente enlace: [GitHub](https://sosaosv09.github.io/Trabajo-Final-BA-Multiplica-2023/)
 
 ## Construido con 🛠️
 
