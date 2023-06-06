@@ -405,11 +405,13 @@ footer {
 }
     /* Pie de Página */
 
+    /* Responsive */
 @media screen and (max-width:920px) {
 
     main, .grid {
     width: 100%;
     margin-left: 0px;
+    margin-right: 0px;
     font-size: 10px;
     }
 
@@ -423,14 +425,30 @@ footer {
     nav, ul, li {
     width: 100%;
     margin-left: -40px;
+    margin-right: -78px;
     margin-top: 20px;
     font-size: 20px;
     }
 
     .a {
-    width: 100%;
-    margin-left: 0px;
+    width: 85%;
+    font-size: 20px;
+    }
+
+    .b {
     font-size: 12px;
+    }
+
+    .c {
+    width: 100%;
+    margin-left: -30px;
+    margin-top: 2411px;
+    font-size: 12px;
+    background-color: rgb(255, 255, 255);
+    }
+
+    .portadas {
+        width: 40%;
     }
 
     footer {
