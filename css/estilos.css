@@ -405,9 +405,38 @@ footer {
 }
     /* Pie de Página */
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:920px) {
 
-    .contenedor {
+    main, .grid {
     width: 100%;
+    margin-left: 0px;
+    font-size: 10px;
+    }
+
+.banner {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: -54px;
+    }
+
+    nav, ul, li {
+    width: 100%;
+    margin-left: -40px;
+    margin-top: 20px;
+    font-size: 20px;
+    }
+
+    .a {
+    width: 100%;
+    margin-left: 0px;
+    font-size: 12px;
+    }
+
+    footer {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    margin-left: 0px;
+    font-size: 10px;
     }
 }
